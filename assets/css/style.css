@@ -291,11 +291,11 @@ html, body {
 }
 
 .skill + .skill {
-    margin-top: 50px;
+    margin-top: 75px;
 }
 
 .skill h4 {
-    font-size: 24px;
+    font-size: 20px;
     text-transform: uppercase;
     margin: 0 0 15px;
 }
